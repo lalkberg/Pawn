@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f82e4294f4ea0f840b2eb4ce6cffc72f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxPursuitDistance: 6
+  MaxPursuitDistance: 10
   StoppingDistance: 2
   SprintMaxDistance: 4
 --- !u!1101 &-6773697472422899079
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: debbc449afe7b634c904ffc6e4396b2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InRadius: 6
+  InRadius: 10
   Center: {x: 0, y: 0, z: 0}
   LayerMask:
     serializedVersion: 2
