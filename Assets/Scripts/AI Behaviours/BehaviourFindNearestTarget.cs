@@ -29,8 +29,6 @@ public class BehaviourFindNearestTarget : AIBehaviour
             }
         }
 
-        Debug.Log(potentialTargets.Count);
-
         if(potentialTargets.Count == 0) return;
 
         Pawn nearest = null;
